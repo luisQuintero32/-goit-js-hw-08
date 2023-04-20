@@ -2,14 +2,14 @@
   "name": "goit-js-hw-08",
   "version": "1.0.0",
   "description": "",
-  "homepage":"https://luisQuintero32.github.io/goit-js-hw-08/",
+  "homepage":"https://luisquintero32.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luisQuintero32/goit-js-hw-08"
+    "url": "git+https://github.com/luisquintero32/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "luis quintero <luispau2390@gmail.com>",
